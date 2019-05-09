@@ -1,0 +1,7 @@
+40, 44, ['dictGetIterator()', 'dictNext()'], 0.8527352323786771
+40, 44, ['dictGetIterator()', 'dictReleaseIterator()'], 0.8315307587446572
+49, 54, ['dictNext()', 'dictReleaseIterator()'], 0.8549746911172972
+18, 20, ['getDecodedObject()', 'decrRefCount()'], 0.24915445638314493
+46, 48, ['listRewind()', 'listNext()'], 0.8379828865328937
+30, 31, ['lookupKeyReadOrReply()', 'checkType()'], 0.724633928895663
+38, 41, ['dictGetIterator()', 'dictNext()', 'dictReleaseIterator()'], 0.8464135607468771

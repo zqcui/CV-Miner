@@ -1,0 +1,7 @@
+40, 44, ['dictGetIterator()', 'dictNext()']
+40, 44, ['dictGetIterator()', 'dictReleaseIterator()']
+49, 54, ['dictNext()', 'dictReleaseIterator()']
+18, 20, ['getDecodedObject()', 'decrRefCount()']
+46, 48, ['listRewind()', 'listNext()']
+30, 31, ['lookupKeyReadOrReply()', 'checkType()']
+38, 41, ['dictGetIterator()', 'dictNext()', 'dictReleaseIterator()']

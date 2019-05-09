@@ -1,0 +1,9 @@
+17, 21, ['dbAdd()', 'signalModifiedKey()'], 0.5493279665226867
+22, 27, ['dbDelete()', 'notifyKeyspaceEvent()'], 0.5080727511420471
+34, 37, ['dictGetIterator()', 'dictNext()'], 0.8527352323786771
+33, 37, ['dictGetIterator()', 'dictReleaseIterator()'], 0.8315307587446572
+41, 45, ['dictNext()', 'dictReleaseIterator()'], 0.8549746911172972
+21, 22, ['getDecodedObject()', 'decrRefCount()'], 0.24915445638314493
+22, 25, ['getLongFromObjectOrReply()', 'addReply()'], 0.7145570879325803
+32, 33, ['lookupKeyReadOrReply()', 'checkType()'], 0.724633928895663
+33, 34, ['dictGetIterator()', 'dictNext()', 'dictReleaseIterator()'], 0.8464135607468771

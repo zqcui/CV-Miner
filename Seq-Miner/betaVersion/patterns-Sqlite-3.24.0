@@ -1,0 +1,3 @@
+42, 45, ['sqlite3BtreeEnter()', 'sqlite3BtreeLeave()']
+29, 34, ['sqlite3SchemaToIndex()', 'assert()']
+77, 83, ['sqlite3_mutex_enter()', 'sqlite3_mutex_leave()']
